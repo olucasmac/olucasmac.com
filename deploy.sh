@@ -21,6 +21,9 @@ hugo
 echo "🌐 Adicionando CNAME ao build..."
 echo "$CNAME_DOMAIN" > $BUILD_DIR/CNAME
 
+# Limpa o repositório Git anterior da public/
+rm -rf $BUILD_DIR/.git
+
 echo "🚀 Enviando conteúdo da pasta $BUILD_DIR para a branch $DEPLOY_BRANCH..."
 
 cd $BUILD_DIR
