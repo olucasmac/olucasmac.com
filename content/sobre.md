@@ -15,6 +15,5 @@ Acredito que tecnologia deve ser acessível, transparente e construída de forma
 Fora das telas, me interesso por ciência, eletrônica e tudo que desafia o manual.  
 No tempo livre, costumo me aventurar no hardware hacking — e dividir o controle do videogame com minha filha.
 
-É isso: sigo aprendendo, construindo e quebrando coisas (com cuidado).
-  
+É isso: sigo aprendendo, construindo e quebrando coisas (com cuidado).  
 Se quiser trocar uma ideia, a porta está sempre aberta.
