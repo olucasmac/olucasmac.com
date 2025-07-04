@@ -7,7 +7,7 @@ REPO="https://github.com/olucasmac/olucasmac.com.git"
 BUILD_DIR="public"
 DEPLOY_BRANCH="gh-pages"
 SOURCE_BRANCH="main"  # ou master, se for o seu caso
-CNAME_DOMAIN="www.olucasmac.com"
+CNAME_DOMAIN="olucasmac.com"
 
 echo "📦 Comitando alterações no código-fonte (branch $SOURCE_BRANCH)..."
 git add .
