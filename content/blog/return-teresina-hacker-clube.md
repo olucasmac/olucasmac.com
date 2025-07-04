@@ -5,7 +5,7 @@ tags: [hacker, manifesto, política, tecnologia]
 featured_image: "/images/thc_code.jpeg"
 ---
 
-![Capa do texto: Contra a passividade](/images/thc_code.jpeg)
+![Capa do texto: Logo do THC](/images/thc_code.jpeg)
 
 Lá em 2014, um grupo de pessoas apaixonadas por tecnologia resolveu criar, aqui em Teresina, algo que ainda não existia por essas bandas: um hackerspace. Assim nasceu o **Teresina Hacker Clube**… ou simplesmente THC, como a gente costuma chamar. Um espaço físico e simbólico onde qualquer pessoa podia chegar, aprender, ensinar, criar, desmontar, errar, consertar, começar de novo… Um lugar onde a curiosidade valia mais que o currículo.
 
