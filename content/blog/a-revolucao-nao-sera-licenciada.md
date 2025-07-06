@@ -13,9 +13,9 @@ featured_image: "/images/everybody_needs_a_hacker.jpg"
 
 ## Copiar é resistir
 
-Há revoluções que nascem em trincheiras. Outras, em livrarias clandestinas, repositórios anônimos e servidores com cheiro de gambiarra. 
+Há revoluções que nascem em trincheiras, com metralhadoras e bandeiras.
 
-Outras nascem em servidores improvisados, com cheiro de gambiarra e espírito de desobediência. Em redes silenciosas de compartilhamento. Em bibliotecas construídas a partir da vontade coletiva de não deixar ninguém para trás.
+Outras, em livrarias clandestinas, repositórios anônimos dentro de servidores com cheiro de gambiarra e espírito de desobediência. Em redes silenciosas de compartilhamento. Em bibliotecas construídas a partir da vontade coletiva de não deixar ninguém para trás.
 
 Esta revolução é silenciosa, cotidiana, persistente. E ela segue viva toda vez que alguém escolhe dividir o saber, mesmo quando o sistema diz que não pode.
 
