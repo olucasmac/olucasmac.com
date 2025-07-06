@@ -19,7 +19,7 @@ Outras, em livrarias clandestinas, repositórios anônimos dentro de servidores 
 
 Esta revolução é silenciosa, cotidiana, persistente. E ela segue viva toda vez que alguém escolhe dividir o saber, mesmo quando o sistema diz que não pode.
 
-**A história do conhecimento é também a história de quem tenta controlá-lo. E a cópia sempre foi uma ameaça**.
+*A história do conhecimento é também a história de quem tenta controlá-lo. E a cópia sempre foi uma ameaça*.
 
 Durante séculos, o conhecimento foi privilégio de poucos. Os livros, copiados à mão por monges, ficavam trancados em mosteiros. Poucos podiam ler. Menos ainda podiam escolher o que ler.
 
