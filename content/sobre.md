@@ -4,8 +4,6 @@ date: 2025-06-26
 slug: "sobre"
 ---
 
-Olá! 👋🏼  
-
 Eu sou o Lucas M.A.C. — entusiasta de SRE, DevOps e das infinitas possibilidades do software livre.
 
 Sou movido por uma curiosidade inquieta: gosto de entender como as coisas funcionam, desmontar, automatizar, otimizar. Tenho uma relação sólida com Linux, infraestrutura e administração de sistemas, mas o que me motiva de verdade é a chance de resolver problemas reais e compartilhar conhecimento com outras pessoas.
