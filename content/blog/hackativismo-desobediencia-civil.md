@@ -1,6 +1,6 @@
 ---
 title: "Hacktivismo e Liberdade Digital: Entre a Desobediência Civil e a Manipulação Autoritária"
-date: 2025-07-09
+date: 2025-04-05
 tags: [hacktivismo, liberdade-digital, desobediencia-civil, ativismo-digital, cultura-hacker, política, tecnologia, democracia, fake-news, discurso-de-ódio]
 featured_image: "/images/everybody_needs_a_hacker.jpg"
 ---
