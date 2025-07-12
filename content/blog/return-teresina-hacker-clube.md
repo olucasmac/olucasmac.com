@@ -7,7 +7,9 @@ featured_image: "/images/thc_code.jpeg"
 
 ![Capa do texto: Logo do THC](/images/thc_code.jpeg)
 
-Lá em 2014, um grupo de pessoas apaixonadas por tecnologia resolveu criar, aqui em Teresina, algo que ainda não existia por essas bandas: um hackerspace. Assim nasceu o **Teresina Hacker Clube**… ou simplesmente THC, como a gente costuma chamar. Um espaço físico e simbólico onde qualquer pessoa podia chegar, aprender, ensinar, criar, desmontar, errar, consertar, começar de novo… Um lugar onde a curiosidade valia mais que o currículo.
+Lá em 2014, um grupo de pessoas apaixonadas por tecnologia resolveu criar, aqui em Teresina, algo que ainda não existia por essas bandas: um _hackerspace_. 
+
+Assim nasceu o **Teresina Hacker Clube**… ou simplesmente THC, como a gente costuma chamar. Um espaço físico e simbólico onde qualquer pessoa podia chegar, aprender, ensinar, criar, desmontar, errar, consertar, começar de novo… Um lugar onde a curiosidade valia mais que o currículo.
 
 Durante quase uma década, o THC virou ponto de encontro de estudantes, professores, autodidatas, programadores, designers, artistas, crianças e idosos. Gente de todo lugar, que às vezes nem se conhecia, mas acabava sentando lado a lado pra montar uma impressora 3D, programar um robô, ensinar HTML pra criança ou imprimir uma mão de plástico.
 
