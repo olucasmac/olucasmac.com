@@ -40,7 +40,7 @@ disableHugoGeneratorInject = false
       limit = 42
       
   [services.disqus]
-    shortname = 'olucasmac'
+    shortname = 'olucasmac-com-blog'
 #   [services.googleAnalytics]
 #     ID = 'G-MEASUREMENT_ID'
 
