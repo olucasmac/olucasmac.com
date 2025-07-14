@@ -10,7 +10,7 @@ Imagina você comprar um jogo digital na PlayStation Store. Um clássico da sua 
 
 Esse tipo de absurdo tem virado regra no capitalismo digital. Do Steam ao Xbox, do Kindle à Netflix, o que chamam de "compra" hoje não garante posse. É um aluguel disfarçado, controlado por _DRM - Digital Rights Management_ (Gestão de Direitos Digitais, em português), contratos obscuros e atualizações automáticas que mudam (ou destroem) o produto que você pagou.
 
-O escritor e ativista Cory Doctorow bate nessa tecla há décadas. Em um [artigo na Pluralistic](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill), ele reforça uma tese simples e poderosa:
+O escritor e ativista Cory Doctorow bate nessa tecla há um tempo. Em um [artigo na Pluralistic](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill), ele reforça uma tese simples e poderosa:
 
 > Se comprar não é possuir, piratear não é roubar.
 
