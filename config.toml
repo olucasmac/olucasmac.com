@@ -39,8 +39,8 @@ disableHugoGeneratorInject = false
       # Maximum number of items in the RSS feed.
       limit = 42
       
-#   [services.disqus]
-#     shortname = 'your-disqus-shortname'
+  [services.disqus]
+    shortname = 'olucasmac'
 #   [services.googleAnalytics]
 #     ID = 'G-MEASUREMENT_ID'
 
