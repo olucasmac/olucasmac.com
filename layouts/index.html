@@ -13,8 +13,15 @@
 
             <style>
             #animated-name::after {
-                content: "_";
-                animation: blink 1s step-start infinite;
+            content: "";
+            display: inline-block;
+            width: 0.5em;
+            height: 0.8em;
+            background-color: #ff4f87; /* rosa neon terminal */
+            margin-left: 0.2em;
+            margin-bottom: 0.2em;
+            animation: blink 1s step-start infinite;
+            vertical-align: middle;
             }
 
             @keyframes blink {
