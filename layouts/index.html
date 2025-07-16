@@ -1,0 +1,73 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <main>
+        <div>
+            {{ if .Site.Params.Portrait.Path }}
+               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+            {{ end }}
+
+            <h1><span id="animated-name"></span></h1>
+
+            <style>
+            #animated-name::after {
+                content: "|";
+                animation: blink 1s step-start infinite;
+            }
+
+            @keyframes blink {
+                50% { opacity: 0; }
+            }
+            </style>
+
+            <script>
+            const fullName = "Lucas M. A. Costa";
+            const charsToRemove = 4; // "osta"
+            const finalChar = "."; // o pontinho que será reescrito
+            const el = document.getElementById("animated-name");
+
+            let i = 0;
+            const typeSpeed = 100;
+            const eraseSpeed = 80;
+            const pauseAfterTyping = 1000;
+
+            function typeWriter() {
+                if (i <= fullName.length) {
+                el.textContent = fullName.substring(0, i);
+                i++;
+                setTimeout(typeWriter, typeSpeed);
+                } else {
+                setTimeout(eraseCharacters, pauseAfterTyping);
+                }
+            }
+
+            function eraseCharacters() {
+                const targetLength = fullName.length - charsToRemove;
+                let current = el.textContent;
+
+                if (current.length > targetLength) {
+                el.textContent = current.slice(0, -1);
+                setTimeout(eraseCharacters, eraseSpeed);
+                } else {
+                // Garante que termina com "."
+                if (!current.endsWith(finalChar)) {
+                    el.textContent += finalChar;
+                }
+                }
+            }
+
+            typeWriter();
+            </script>
+
+            {{ partial "subtitle.html" . }}
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}

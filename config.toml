@@ -1,5 +1,5 @@
 baseURL = "https://olucasmac.com"
-title   = "Lucas M. A. Costa"
+title   = "Lucas M. A. C."
 languageCode = "pt-br"
 theme = "hello-friend-ng"
 defaultContentLanguage = "pt-br"
@@ -162,7 +162,7 @@ disableHugoGeneratorInject = false
   #
    [params.portrait]
      path     = "/images/eu.jpg"
-     alt      = "Lucas M. A. Costa"
+     alt      = "Lucas M. A. C."
      maxWidth = "150px"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
