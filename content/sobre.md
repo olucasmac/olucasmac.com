@@ -12,6 +12,6 @@ Sou movido por uma curiosidade inquieta: gosto de entender como as coisas funcio
 Acredito que tecnologia deve ser acessível, transparente e construída de forma colaborativa. Por isso, sempre que posso, me envolvo com projetos abertos, escrevo, documento, fuço.
 
 Fora das telas, me interesso por ciência, eletrônica e tudo que desafia o manual.  
-No tempo livre, costumo me aventurar no hardware hacking — e dividir o controle do videogame com minha filha.
+No tempo livre, costumo me aventurar no hardware hacking e dividir o controle do videogame com minha filha.
 
 É isso: sigo aprendendo, construindo e quebrando coisas (com cuidado).
