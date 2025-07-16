@@ -20,7 +20,7 @@ Sim, tem quem lucre com a pirataria. E isso precisa ser discutido. Mas também t
 
 Quando os EUA chamam a 25 de Março de "mercado notório", o recado é claro: "vocês não estão fazendo nada pra resolver isso". Mas a gente também pode responder: "e vocês, o que têm feito pra combater a exclusão digital e cultural que também vem do modelo de mercado de vocês?"
 
-A verdade é que a pirataria no Brasil é reflexo de um sistema injusto. Não é só sobre burlar a lei. É sobre sobreviver, participar, se entreter, aprender, se sentir incluído.
+Pode parecer que a gente está sempre batendo na mesma tecla, e talvez até soe repetitivo falar disso de novo. Mas a verdade é que a pirataria no Brasil é reflexo de um sistema injusto. Não é só sobre burlar a lei. É sobre sobreviver, participar, se entreter, aprender, se sentir incluído.
 
 E não, isso não significa passar pano ou dizer que tudo está certo. Mas também não dá pra tratar o tema com a mesma lógica de quem vê o mundo da janela de um prédio espelhado em Nova York.
 
