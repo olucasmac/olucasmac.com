@@ -16,8 +16,11 @@
 
         <article>
             <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
-            <p class="post-date">Publicado em <time class="post-date">{{ .Date.Format "02 de Jan de 2006" }}</time></p>
-            
+
+            {{ if ne .Params.showDate false }}
+                <p class="custom-date">Publicado em <time>{{ .Date.Format "02 de Jan de 2006" }}</time></p>
+            {{ end }}
+
             {{ if .Params.Cover }}
                 <figure class="post-cover">
                     <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
