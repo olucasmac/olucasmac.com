@@ -2,6 +2,7 @@
 title: "Eu?"
 date: 2025-06-26
 slug: "sobre"
+comments: false
 ---
 
 Eu sou o Lucas M.A.C. — entusiasta de SRE, DevOps e das infinitas possibilidades do software livre.

@@ -48,9 +48,10 @@
 			{{- end }}
   		</div>
 
-        {{ if .Site.DisqusShortname }}
+        {{ if and .Site.DisqusShortname (or (not (isset .Params "comments")) .Params.comments) }}
           {{ template "_internal/disqus.html" . }}
         {{ end }}
+
 
     </main>
 {{ end }}
